@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+    <string name="app_name">终极井字棋</string>
+    <string name="long_app_name">Ultimate Tic Tac Toe</string>
+    <string name="action_settings">Settings</string>
+    <string name="restart_label">重新开始</string>
+    <string name="main_menu_label">主菜单</string>
+    <string name="declare_winner">%1$s is the winner</string>
+    <string name="declare_win">You Win&#160;!</string>
+    <string name="declare_lose">You Lose&#160;!</string>
+    <string name="declare_tie">Tie&#160;!</string>
+    <string name="continue_label">继续游戏</string>
+    <string name="new_game_label">新游戏</string>
+    <string name="about_title">About Ultimate Tic Tac Toe</string>
+    <string name="about_label">关于</string>
+    <string name="rule_label">游戏规则</string>
+    <string name="ok_label">OK</string>
+    <string name="rule_text">\
+&#160;&#160;&#160;&#160;棋盘是由9个九宫格形式的小棋盘所组成的3*3网格，如果一方在某个小棋盘的九宫格中将自己的棋子连成直线，则该方占据该小棋盘。最终先将占据的小棋盘连成一条直线的一方获胜。
+\n
+&#160;&#160;&#160;&#160;一个玩家下棋后，对手接下来只能在这步棋所处的格子对应的小棋盘内下棋。
+    </string>
+    <string name="about_text">By Group2</string>
+</resources>

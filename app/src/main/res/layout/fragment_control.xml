@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="@dimen/control_padding"
+    tools:context=".GameActivity">
+
+    <Button
+        android:id="@+id/button_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:alpha="0.4"
+        android:drawableTop="@drawable/home"
+        android:text="@string/main_menu_label" />
+
+    <Button
+        android:id="@+id/button_restart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:alpha="0.4"
+        android:drawableTop="@drawable/restart"
+        android:text="@string/restart_label" />
+
+
+</LinearLayout>
