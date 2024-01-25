@@ -1,1 +1,1 @@
-# 终极井字棋实现
+# A simple Tic-Tac-Toe
